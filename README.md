@@ -12,3 +12,4 @@ Analisei:
 Candidatos federais: 292
 Candidatos estaduais: 583
 
+[Web scrapping e a democracia.pdf](https://github.com/kamillyruseler/web-scraping/files/12506704/Web.scrapping.e.a.democracia.pdf)
